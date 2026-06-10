@@ -6,11 +6,11 @@
 - Firebase-powered real-time data synchronization using Cloud Firestore.
 - Automated Excel reporting for environmental records.
 
-## 1. The Challenge
+## The Challenge
 
 Environmental data collection was previously handled manually, making the process slower, harder to standardize, and more exposed to transcription errors. The project needed a practical way to register, organize, monitor, and export weather station measurements from a mobile device.
 
-## 2. The Solution
+## The Solution
 
 Projeto EMEDE is a mobile app for managing meteorological station records in a structured digital workflow. The app synchronizes collected data in real time with Firebase, allowing users to create weather records, manage observations, view tables and charts, and generate professional Excel reports with one click.
 
@@ -23,7 +23,7 @@ Main features include:
 - Excel export for 7, 15, or 31 days of collected data.
 - Mobile-first navigation using Expo Router tabs and screens.
 
-## 3. Technologies
+## Technologies
 
 - React Native
 - Expo
@@ -35,7 +35,7 @@ Main features include:
 - React Native Gifted Charts
 - TypeScript / JavaScript
 
-## 4. How to Run
+## How to Run
 
 ### Prerequisites
 
